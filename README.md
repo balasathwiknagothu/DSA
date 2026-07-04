@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/balasathwiknagothu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/balasathwiknagothu/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/balasathwiknagothu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/balasathwiknagothu/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/balasathwiknagothu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/balasathwiknagothu/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/balasathwiknagothu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
