@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/balasathwiknagothu/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/balasathwiknagothu/DSA/tree/master/0015-3sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/balasathwiknagothu/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/balasathwiknagothu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/balasathwiknagothu/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/balasathwiknagothu/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/balasathwiknagothu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/balasathwiknagothu/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/balasathwiknagothu/DSA/tree/master/0713-subarray-product-less-than-k) |
