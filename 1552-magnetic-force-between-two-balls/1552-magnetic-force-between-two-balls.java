@@ -24,7 +24,7 @@ class Solution {
                 countballs++;
                 lastball=arr[i];
             }
-        if(countballs>=m) return true;
+            if(countballs>=m) return true;
         }
         return false;
     }
