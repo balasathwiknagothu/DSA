@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/balasathwiknagothu/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/balasathwiknagothu/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/balasathwiknagothu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/balasathwiknagothu/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/balasathwiknagothu/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/balasathwiknagothu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/balasathwiknagothu/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/balasathwiknagothu/DSA/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/balasathwiknagothu/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
