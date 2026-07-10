@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/balasathwiknagothu/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/balasathwiknagothu/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/balasathwiknagothu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/balasathwiknagothu/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/balasathwiknagothu/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/balasathwiknagothu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -74,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/balasathwiknagothu/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/balasathwiknagothu/DSA/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/balasathwiknagothu/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/balasathwiknagothu/DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/balasathwiknagothu/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Queue
 |  |
 | ------- |
@@ -163,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/balasathwiknagothu/DSA/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/balasathwiknagothu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/balasathwiknagothu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -237,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/balasathwiknagothu/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
