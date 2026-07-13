@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/balasathwiknagothu/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/balasathwiknagothu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/balasathwiknagothu/DSA/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/balasathwiknagothu/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/balasathwiknagothu/DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/balasathwiknagothu/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/balasathwiknagothu/DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/balasathwiknagothu/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/balasathwiknagothu/DSA/tree/master/0860-lemonade-change) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/balasathwiknagothu/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
