@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/balasathwiknagothu/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/balasathwiknagothu/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/balasathwiknagothu/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/balasathwiknagothu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/balasathwiknagothu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/balasathwiknagothu/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/1922-count-good-numbers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/balasathwiknagothu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/balasathwiknagothu/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/balasathwiknagothu/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/balasathwiknagothu/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/balasathwiknagothu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Queue
 |  |
@@ -315,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/balasathwiknagothu/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/balasathwiknagothu/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/balasathwiknagothu/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/balasathwiknagothu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
