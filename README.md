@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/balasathwiknagothu/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/balasathwiknagothu/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/balasathwiknagothu/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/balasathwiknagothu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/balasathwiknagothu/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/balasathwiknagothu/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/balasathwiknagothu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/balasathwiknagothu/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/balasathwiknagothu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/balasathwiknagothu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/balasathwiknagothu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/balasathwiknagothu/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/balasathwiknagothu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/balasathwiknagothu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/balasathwiknagothu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/balasathwiknagothu/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
