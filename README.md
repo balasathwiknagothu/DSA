@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/balasathwiknagothu/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/balasathwiknagothu/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/balasathwiknagothu/DSA/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/balasathwiknagothu/DSA/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/balasathwiknagothu/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/balasathwiknagothu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/balasathwiknagothu/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/balasathwiknagothu/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/balasathwiknagothu/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/balasathwiknagothu/DSA/tree/master/0547-number-of-provinces) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/balasathwiknagothu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/balasathwiknagothu/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/balasathwiknagothu/DSA/tree/master/0547-number-of-provinces) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/balasathwiknagothu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/balasathwiknagothu/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -405,4 +410,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
