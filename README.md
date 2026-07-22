@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/balasathwiknagothu/DSA/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/balasathwiknagothu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/balasathwiknagothu/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## String Matching
 |  |
 | ------- |
