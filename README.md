@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/balasathwiknagothu/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/balasathwiknagothu/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/balasathwiknagothu/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/balasathwiknagothu/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/balasathwiknagothu/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/balasathwiknagothu/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/balasathwiknagothu/DSA/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/balasathwiknagothu/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/balasathwiknagothu/DSA/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/balasathwiknagothu/DSA/tree/master/0257-binary-tree-paths) |
 ## Segment Tree
 |  |
