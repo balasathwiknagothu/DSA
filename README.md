@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/balasathwiknagothu/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/balasathwiknagothu/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/balasathwiknagothu/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/balasathwiknagothu/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/balasathwiknagothu/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/balasathwiknagothu/DSA/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/balasathwiknagothu/DSA/tree/master/1314-matrix-block-sum) |
 ## Math
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/balasathwiknagothu/DSA/tree/master/0994-rotting-oranges) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/balasathwiknagothu/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/balasathwiknagothu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/balasathwiknagothu/DSA/tree/master/2685-count-the-number-of-complete-components) |
