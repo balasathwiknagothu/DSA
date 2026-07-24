@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/balasathwiknagothu/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/balasathwiknagothu/DSA/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/balasathwiknagothu/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/balasathwiknagothu/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/balasathwiknagothu/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/balasathwiknagothu/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/balasathwiknagothu/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/balasathwiknagothu/DSA/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/balasathwiknagothu/DSA/tree/master/0257-binary-tree-paths) |
 ## Segment Tree
 |  |
