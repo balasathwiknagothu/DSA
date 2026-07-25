@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/balasathwiknagothu/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/balasathwiknagothu/DSA/tree/master/0455-assign-cookies) |
+| [0473-matchsticks-to-square](https://github.com/balasathwiknagothu/DSA/tree/master/0473-matchsticks-to-square) |
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/balasathwiknagothu/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/balasathwiknagothu/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/balasathwiknagothu/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/balasathwiknagothu/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/balasathwiknagothu/DSA/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/balasathwiknagothu/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/balasathwiknagothu/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/balasathwiknagothu/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/balasathwiknagothu/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0473-matchsticks-to-square](https://github.com/balasathwiknagothu/DSA/tree/master/0473-matchsticks-to-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/balasathwiknagothu/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -677,8 +680,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/balasathwiknagothu/DSA/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/balasathwiknagothu/DSA/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/balasathwiknagothu/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/balasathwiknagothu/DSA/tree/master/0473-matchsticks-to-square) |
 ## Segment Tree
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/balasathwiknagothu/DSA/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
