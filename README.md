@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/balasathwiknagothu/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/balasathwiknagothu/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/balasathwiknagothu/DSA/tree/master/0202-happy-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/balasathwiknagothu/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0445-add-two-numbers-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/balasathwiknagothu/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/balasathwiknagothu/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0357-count-numbers-with-unique-digits](https://github.com/balasathwiknagothu/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/balasathwiknagothu/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/balasathwiknagothu/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/balasathwiknagothu/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/balasathwiknagothu/DSA/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/balasathwiknagothu/DSA/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/balasathwiknagothu/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Segment Tree
 |  |
 | ------- |
