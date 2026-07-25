@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/balasathwiknagothu/DSA/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/balasathwiknagothu/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0306-additive-number](https://github.com/balasathwiknagothu/DSA/tree/master/0306-additive-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/balasathwiknagothu/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/balasathwiknagothu/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/balasathwiknagothu/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/balasathwiknagothu/DSA/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/balasathwiknagothu/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/balasathwiknagothu/DSA/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/balasathwiknagothu/DSA/tree/master/0306-additive-number) |
 ## Segment Tree
 |  |
 | ------- |
