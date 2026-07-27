@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/balasathwiknagothu/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/balasathwiknagothu/DSA/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/balasathwiknagothu/DSA/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/balasathwiknagothu/DSA/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/balasathwiknagothu/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/balasathwiknagothu/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/balasathwiknagothu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
