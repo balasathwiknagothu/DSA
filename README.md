@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/balasathwiknagothu/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/balasathwiknagothu/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/balasathwiknagothu/DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/balasathwiknagothu/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/balasathwiknagothu/DSA/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/balasathwiknagothu/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0410-split-array-largest-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/balasathwiknagothu/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/balasathwiknagothu/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/balasathwiknagothu/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/balasathwiknagothu/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/balasathwiknagothu/DSA/tree/master/1020-number-of-enclaves) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/balasathwiknagothu/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/balasathwiknagothu/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/balasathwiknagothu/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/balasathwiknagothu/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/balasathwiknagothu/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/balasathwiknagothu/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/balasathwiknagothu/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/balasathwiknagothu/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/balasathwiknagothu/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/balasathwiknagothu/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/balasathwiknagothu/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/balasathwiknagothu/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/balasathwiknagothu/DSA/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/balasathwiknagothu/DSA/tree/master/1971-find-if-path-exists-in-graph) |
