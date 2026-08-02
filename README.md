@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/balasathwiknagothu/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0697-degree-of-an-array](https://github.com/balasathwiknagothu/DSA/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/balasathwiknagothu/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/balasathwiknagothu/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/balasathwiknagothu/DSA/tree/master/0733-flood-fill) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/balasathwiknagothu/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/balasathwiknagothu/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/balasathwiknagothu/DSA/tree/master/0697-degree-of-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/balasathwiknagothu/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0930-binary-subarrays-with-sum) |
