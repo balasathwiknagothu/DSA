@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/balasathwiknagothu/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/balasathwiknagothu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/balasathwiknagothu/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/balasathwiknagothu/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/balasathwiknagothu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3026-maximum-good-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/3026-maximum-good-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/balasathwiknagothu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/balasathwiknagothu/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/balasathwiknagothu/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/balasathwiknagothu/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/balasathwiknagothu/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/3026-maximum-good-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/balasathwiknagothu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/balasathwiknagothu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/balasathwiknagothu/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/balasathwiknagothu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Queue
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/balasathwiknagothu/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/balasathwiknagothu/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/balasathwiknagothu/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/balasathwiknagothu/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/balasathwiknagothu/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/balasathwiknagothu/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
