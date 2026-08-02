@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/balasathwiknagothu/DSA/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/balasathwiknagothu/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/balasathwiknagothu/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/balasathwiknagothu/DSA/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/balasathwiknagothu/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/balasathwiknagothu/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/balasathwiknagothu/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/balasathwiknagothu/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/balasathwiknagothu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/balasathwiknagothu/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/balasathwiknagothu/DSA/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/balasathwiknagothu/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/balasathwiknagothu/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/balasathwiknagothu/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/balasathwiknagothu/DSA/tree/master/0968-binary-tree-cameras) |
@@ -776,4 +779,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/balasathwiknagothu/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/balasathwiknagothu/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
