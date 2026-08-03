@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/balasathwiknagothu/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/balasathwiknagothu/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3026-maximum-good-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/3026-maximum-good-subarray-sum) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/balasathwiknagothu/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/balasathwiknagothu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/balasathwiknagothu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/balasathwiknagothu/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/balasathwiknagothu/DSA/tree/master/3026-maximum-good-subarray-sum) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/balasathwiknagothu/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/balasathwiknagothu/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/balasathwiknagothu/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/balasathwiknagothu/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/balasathwiknagothu/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
