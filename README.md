@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/balasathwiknagothu/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/balasathwiknagothu/DSA/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/balasathwiknagothu/DSA/tree/master/1314-matrix-block-sum) |
+| [1406-stone-game-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/balasathwiknagothu/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/balasathwiknagothu/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/balasathwiknagothu/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/balasathwiknagothu/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/balasathwiknagothu/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/balasathwiknagothu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/balasathwiknagothu/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/balasathwiknagothu/DSA/tree/master/0968-binary-tree-cameras) |
 | [0978-longest-turbulent-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0978-longest-turbulent-subarray) |
+| [1406-stone-game-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/balasathwiknagothu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/balasathwiknagothu/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -807,4 +810,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/balasathwiknagothu/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/balasathwiknagothu/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
