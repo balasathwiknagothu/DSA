@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/balasathwiknagothu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/balasathwiknagothu/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/balasathwiknagothu/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/balasathwiknagothu/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/balasathwiknagothu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/balasathwiknagothu/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1406-stone-game-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/balasathwiknagothu/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/balasathwiknagothu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/balasathwiknagothu/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/balasathwiknagothu/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/balasathwiknagothu/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/balasathwiknagothu/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/balasathwiknagothu/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/balasathwiknagothu/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/balasathwiknagothu/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/balasathwiknagothu/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
@@ -623,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/balasathwiknagothu/DSA/tree/master/1260-shift-2d-grid) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/balasathwiknagothu/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/balasathwiknagothu/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
