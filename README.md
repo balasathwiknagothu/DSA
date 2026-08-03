@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/balasathwiknagothu/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/balasathwiknagothu/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/balasathwiknagothu/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/balasathwiknagothu/DSA/tree/master/1260-shift-2d-grid) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/balasathwiknagothu/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/balasathwiknagothu/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/balasathwiknagothu/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
