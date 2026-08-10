@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/balasathwiknagothu/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/balasathwiknagothu/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/balasathwiknagothu/DSA/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/balasathwiknagothu/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/balasathwiknagothu/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/balasathwiknagothu/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/balasathwiknagothu/DSA/tree/master/0968-binary-tree-cameras) |
 | [0978-longest-turbulent-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1406-stone-game-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/balasathwiknagothu/DSA/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/balasathwiknagothu/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/balasathwiknagothu/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/balasathwiknagothu/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -854,4 +856,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/balasathwiknagothu/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/balasathwiknagothu/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/balasathwiknagothu/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/balasathwiknagothu/DSA/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/balasathwiknagothu/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/balasathwiknagothu/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/balasathwiknagothu/DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/balasathwiknagothu/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
